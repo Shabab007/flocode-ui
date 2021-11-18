@@ -1,0 +1,13 @@
+.dropDownContainer {
+   border:1px solid rgb(230, 230, 230);
+   transition:all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+   border-radius: 2px; 
+   background-color: rgba(112, 36, 196, 0.05);
+}
+.dropDownContainer:hover{
+  border: 1px solid #7024C4;
+  
+}
+.dropDownContainer:focus-within{
+ border-color: #7024C4 ;
+}

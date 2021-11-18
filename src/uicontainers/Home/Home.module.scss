@@ -1,0 +1,17 @@
+.bodyContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+.body {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card {
+    display: flex;
+    text-align: left;
+    width: 30%;
+    margin-bottom: 1%;
+}

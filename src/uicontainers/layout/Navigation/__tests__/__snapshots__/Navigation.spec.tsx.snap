@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Page Testing Navigation Bar Testing should match navigation bar snapshot 1`] = `
+<div>
+  <Row
+    className="navigationContainer"
+  >
+    <Col
+      className="logoContainer"
+      span={8}
+    >
+      <Image
+        preview={false}
+        src="https://www.flowcode.com/_next/image?url=%2Flogos%2FflowcodeTM_horizontal_white.svg&w=256&q=100"
+        width="100%"
+      />
+    </Col>
+    <Col
+      span={8}
+    />
+    <Col
+      className="buttonsContainer"
+      span={8}
+    >
+      <NavigationButton />
+    </Col>
+  </Row>
+</div>
+`;
+
+exports[`Navigation Page Testing Navigation Button Testing should match navigation button snapshot 1`] = `<NavigationButton />`;

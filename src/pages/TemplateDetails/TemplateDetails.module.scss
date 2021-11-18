@@ -1,0 +1,30 @@
+$backgroundColor: #f33232;
+
+.container {
+  background-color: #F3EDFA;
+}
+.controlForm {
+  background-color: $backgroundColor;
+}
+
+.tabs {
+  background-color: $backgroundColor;
+  min-height: 55px;
+}
+.tabDetails {
+  background-color: $backgroundColor;
+  min-height: 600px;
+}
+
+.overlayOptions {
+  background-color: $backgroundColor;
+  min-height: 45px;
+}
+.player {
+  background-color: $backgroundColor;
+  min-height: 470px;
+}
+.templateNameSection {
+  background-color: $backgroundColor;
+  min-height: 125px;
+}

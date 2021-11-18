@@ -1,0 +1,11 @@
+$card-border-color: #d9d9d9;
+
+.card{
+  border: 2px solid $card-border-color;
+}
+.cardImage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}

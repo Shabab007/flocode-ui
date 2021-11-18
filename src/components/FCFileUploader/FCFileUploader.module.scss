@@ -1,0 +1,23 @@
+.formContainer{
+    max-width:100%;
+    min-width: 35rem;
+    background-color: rgba(112, 36, 196, 0.05);
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    align-items: center;
+    
+    border:1px solid rgb(224, 224, 224)
+}
+.formPlaceholder{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0rem 1rem;
+
+}
+.previewImageContainer{
+    display: flex;
+
+}
